@@ -1,3 +1,0 @@
-- 👋 Hi, I’m @Skywalker
-- 👀 I’m interested in programming & reverse engineering 
-- 🌱 I’m currently learning C++
